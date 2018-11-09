@@ -1,0 +1,10 @@
+C:\projetos\barra-de-tarefas\projeto\projeto\obj\Release\projeto.Form1.resources
+C:\projetos\barra-de-tarefas\projeto\projeto\obj\Release\projeto.Properties.Resources.resources
+C:\projetos\barra-de-tarefas\projeto\projeto\obj\Release\projeto.csproj.GenerateResource.cache
+C:\projetos\barra-de-tarefas\projeto\projeto\obj\Release\projeto.csproj.CoreCompileInputs.cache
+C:\projetos\barra-de-tarefas\projeto\projeto\obj\Release\projeto.exe
+C:\projetos\barra-de-tarefas\projeto\projeto\obj\Release\projeto.Form2.resources
+C:\projetos\barra-de-tarefas\projeto\projeto\bin\Release\LogosBar.exe
+C:\projetos\barra-de-tarefas\projeto\projeto\bin\Release\LogosBar.pdb
+C:\projetos\barra-de-tarefas\projeto\projeto\obj\Release\LogosBar.exe
+C:\projetos\barra-de-tarefas\projeto\projeto\obj\Release\LogosBar.pdb
